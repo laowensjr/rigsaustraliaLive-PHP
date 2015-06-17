@@ -1,0 +1,363 @@
+﻿<?xml version='1.0' encoding='UTF-8'?>
+<photoCollection mode="publish">
+	<display>
+		<style cellBorderColor="#787878" cellRolloverColor="#a1a1a1" cssVersion="141580674461382221" idplateEnabled="false" 			css="
+				#previewFull {background-color: #666666 !important; width: 705px !important; color: inherit}
+				#liveUpdateContactInfo {color: #b3b3b3 !important; background-color: inherit;}
+				.borderRightDotted {border-right: 1px dotted #787878 !important;}
+				.logo {display: none !important;}
+				#liveUpdateCollectionDescription {color: #b3b3b3 !important; background-color: inherit;}
+				.detailNav, .detailLinks, #detailCaption, #detailTitle {color: #b3b3b3 !important; background-color: inherit;}
+				.emptyThumbnail {background-color: #949494 !important; color: inherit;}
+				.thumbnail {background-color: #949494 !important; color: inherit;}
+				.previewFullImage {height: 675px !important; width: 705px !important;}
+				#stage2 {width: 705px !important;}
+				.itemNumber {display: inherit !important; color: #9c9c9c !important; background-color: inherit;}
+				#content {background-color: #4c4c4c !important; color: inherit;}
+				.borderTopLeft {border-top: 1px solid #787878 !important; border-left: 1px solid #787878 !important;}
+				#stage {width: 484px !important;}
+				.caption {color: #b3b3b3 !important; background-color: inherit;}
+				#wrapper2 {width: 705px !important;}
+				.borderBottomRight {border-right: 1px solid #787878 !important; border-bottom: 1px solid #787878 !important;}
+				#wrapper {width: 484px !important;}
+				#liveUpdateCollectionTitle {color: #b3b3b3 !important; background-color: inherit;}
+				.paginationLinks, .pagination, #liveUpdatePagination {color: #b3b3b3 !important; background-color: inherit;}
+				.selectedThumbnail, .thumbnail:hover {background-color: #a1a1a1 !important; color: inherit;}
+				#liveUpdateSiteTitle {color: #b3b3b3 !important; background-color: inherit;}
+				.borderBottom {border-bottom: 1px solid #787878 !important;}
+				.borderRight {border-right: 1px solid #787878 !important;}
+				body {background-color: #4c4c4c !important; color: inherit;}
+			"
+		identityPlateAbsolutePath="" 
+numCols="3" 
+numRows="4" 
+homePage="index.html" 
+imageBase="content" 
+cellColor="#949494">
+		</style>
+		<metadata>
+			<creationDate formatted="Wed Nov 12 2014 10:39:04 GMT-0500"></creationDate>
+			<groupTitle value="My Photographs"></groupTitle>
+			<contactInfo value="Contact name" link="mailto:user@domain.com"></contactInfo>
+			<siteTitle value="Adobe Web Gallery"></siteTitle>
+			<groupDescription value="Web Photo Gallery created by Adobe Bridge"></groupDescription>
+		</metadata>
+		<localization>
+			<item id="AdobeLightroomWebSite" localized="http://labs.adobe.com/technologies/lightroom/"></item>
+			<item id="AdobeLightroomBeta" localized="Adobe Lightroom Beta"></item>
+			<item id="Fullsize" localized="Fullsize"></item>
+			<item id="Next" localized="Next"></item>
+			<item id="Previous" localized="Previous"></item>
+			<item id="EmptyGallery" localized="There are no images in this gallery."></item>
+			<item id="more" localized="more"></item>
+			<item id="Index" localized="Index"></item>
+		</localization>
+	</display>
+	<head>
+		<siteTitle></siteTitle>
+		<collectionName></collectionName>
+		<collectionTitle></collectionTitle>
+		<collectionDescription></collectionDescription>
+		<contactInfo></contactInfo>
+		<slideDuration></slideDuration>
+		<sizes>
+			<size name="large" height="675" width="675"></size>
+			<size name="thumb" height="129" width="129"></size>
+		</sizes>
+	</head>
+	<samples totalGallerySize="36" firstSampleIndex="1">
+	<img orientation="BC" imageID="0_1415806744616" filename="SurfaceDrills1" >
+		<text>
+			<title></title>
+			<description></description>
+		</text>
+		<rendition path="content/bin/images/large/SurfaceDrills1.jpg" height="307" width="338" size="large"></rendition>
+		<rendition path="content/bin/images/thumb/SurfaceDrills1.jpg" height="117" width="129" size="thumb"></rendition>
+	</img>
+	<img orientation="BC" imageID="1_1415806744617" filename="SurfaceDrills2" >
+		<text>
+			<title></title>
+			<description></description>
+		</text>
+		<rendition path="content/bin/images/large/SurfaceDrills2.jpg" height="306" width="314" size="large"></rendition>
+		<rendition path="content/bin/images/thumb/SurfaceDrills2.jpg" height="125" width="129" size="thumb"></rendition>
+	</img>
+	<img orientation="BC" imageID="2_1415806744617" filename="SurfaceDrills3" >
+		<text>
+			<title></title>
+			<description></description>
+		</text>
+		<rendition path="content/bin/images/large/SurfaceDrills3.jpg" height="296" width="395" size="large"></rendition>
+		<rendition path="content/bin/images/thumb/SurfaceDrills3.jpg" height="96" width="129" size="thumb"></rendition>
+	</img>
+	<img orientation="BC" imageID="3_1415806744618" filename="SurfaceDrills4" >
+		<text>
+			<title></title>
+			<description></description>
+		</text>
+		<rendition path="content/bin/images/large/SurfaceDrills4.jpg" height="293" width="391" size="large"></rendition>
+		<rendition path="content/bin/images/thumb/SurfaceDrills4.jpg" height="96" width="129" size="thumb"></rendition>
+	</img>
+	<img orientation="BC" imageID="4_1415806744618" filename="SurfaceDrills5" >
+		<text>
+			<title></title>
+			<description></description>
+		</text>
+		<rendition path="content/bin/images/large/SurfaceDrills5.jpg" height="315" width="420" size="large"></rendition>
+		<rendition path="content/bin/images/thumb/SurfaceDrills5.jpg" height="96" width="129" size="thumb"></rendition>
+	</img>
+	<img orientation="BC" imageID="5_1415806744618" filename="SurfaceDrills6" >
+		<text>
+			<title></title>
+			<description></description>
+		</text>
+		<rendition path="content/bin/images/large/SurfaceDrills6.jpg" height="315" width="420" size="large"></rendition>
+		<rendition path="content/bin/images/thumb/SurfaceDrills6.jpg" height="96" width="129" size="thumb"></rendition>
+	</img>
+	<img orientation="BC" imageID="6_1415806744619" filename="SurfaceDrills7" >
+		<text>
+			<title></title>
+			<description></description>
+		</text>
+		<rendition path="content/bin/images/large/SurfaceDrills7.jpg" height="296" width="395" size="large"></rendition>
+		<rendition path="content/bin/images/thumb/SurfaceDrills7.jpg" height="96" width="129" size="thumb"></rendition>
+	</img>
+	<img orientation="BC" imageID="7_1415806744619" filename="SurfaceDrills8" >
+		<text>
+			<title></title>
+			<description></description>
+		</text>
+		<rendition path="content/bin/images/large/SurfaceDrills8.jpg" height="295" width="393" size="large"></rendition>
+		<rendition path="content/bin/images/thumb/SurfaceDrills8.jpg" height="96" width="129" size="thumb"></rendition>
+	</img>
+	<img orientation="BC" imageID="8_1415806744619" filename="SurfaceDrills9" >
+		<text>
+			<title></title>
+			<description></description>
+		</text>
+		<rendition path="content/bin/images/large/SurfaceDrills9.jpg" height="270" width="411" size="large"></rendition>
+		<rendition path="content/bin/images/thumb/SurfaceDrills9.jpg" height="84" width="129" size="thumb"></rendition>
+	</img>
+	<img orientation="BC" imageID="9_1415806744620" filename="SurfaceDrills10" >
+		<text>
+			<title></title>
+			<description></description>
+		</text>
+		<rendition path="content/bin/images/large/SurfaceDrills10.jpg" height="270" width="378" size="large"></rendition>
+		<rendition path="content/bin/images/thumb/SurfaceDrills10.jpg" height="92" width="129" size="thumb"></rendition>
+	</img>
+	<img orientation="BC" imageID="10_1415806744620" filename="SurfaceDrills11" >
+		<text>
+			<title></title>
+			<description></description>
+		</text>
+		<rendition path="content/bin/images/large/SurfaceDrills11.jpg" height="283" width="377" size="large"></rendition>
+		<rendition path="content/bin/images/thumb/SurfaceDrills11.jpg" height="96" width="129" size="thumb"></rendition>
+	</img>
+	<img orientation="BC" imageID="11_1415806744621" filename="SurfaceDrills12" >
+		<text>
+			<title></title>
+			<description></description>
+		</text>
+		<rendition path="content/bin/images/large/SurfaceDrills12.jpg" height="284" width="378" size="large"></rendition>
+		<rendition path="content/bin/images/thumb/SurfaceDrills12.jpg" height="96" width="129" size="thumb"></rendition>
+	</img>
+	<img orientation="BC" imageID="12_1415806744621" filename="SurfaceDrills13" >
+		<text>
+			<title></title>
+			<description></description>
+		</text>
+		<rendition path="content/bin/images/large/SurfaceDrills13.jpg" height="251" width="337" size="large"></rendition>
+		<rendition path="content/bin/images/thumb/SurfaceDrills13.jpg" height="96" width="129" size="thumb"></rendition>
+	</img>
+	<img orientation="BC" imageID="13_1415806744622" filename="SurfaceDrills14" >
+		<text>
+			<title></title>
+			<description></description>
+		</text>
+		<rendition path="content/bin/images/large/SurfaceDrills14.jpg" height="219" width="337" size="large"></rendition>
+		<rendition path="content/bin/images/thumb/SurfaceDrills14.jpg" height="83" width="129" size="thumb"></rendition>
+	</img>
+	<img orientation="BC" imageID="14_1415806744622" filename="SurfaceDrills15" >
+		<text>
+			<title></title>
+			<description></description>
+		</text>
+		<rendition path="content/bin/images/large/SurfaceDrills15.jpg" height="228" width="338" size="large"></rendition>
+		<rendition path="content/bin/images/thumb/SurfaceDrills15.jpg" height="87" width="129" size="thumb"></rendition>
+	</img>
+	<img orientation="BC" imageID="15_1415806744622" filename="SurfaceDrills16" >
+		<text>
+			<title></title>
+			<description></description>
+		</text>
+		<rendition path="content/bin/images/large/SurfaceDrills16.jpg" height="255" width="337" size="large"></rendition>
+		<rendition path="content/bin/images/thumb/SurfaceDrills16.jpg" height="97" width="129" size="thumb"></rendition>
+	</img>
+	<img orientation="BC" imageID="16_1415806744623" filename="SurfaceDrills17" >
+		<text>
+			<title></title>
+			<description></description>
+		</text>
+		<rendition path="content/bin/images/large/SurfaceDrills17.jpg" height="250" width="336" size="large"></rendition>
+		<rendition path="content/bin/images/thumb/SurfaceDrills17.jpg" height="95" width="129" size="thumb"></rendition>
+	</img>
+	<img orientation="BC" imageID="17_1415806744623" filename="SurfaceDrills18" >
+		<text>
+			<title></title>
+			<description></description>
+		</text>
+		<rendition path="content/bin/images/large/SurfaceDrills18.jpg" height="193" width="271" size="large"></rendition>
+		<rendition path="content/bin/images/thumb/SurfaceDrills18.jpg" height="91" width="129" size="thumb"></rendition>
+	</img>
+	<img orientation="BC" imageID="18_1415806744623" filename="SurfaceDrills19" >
+		<text>
+			<title></title>
+			<description></description>
+		</text>
+		<rendition path="content/bin/images/large/SurfaceDrills19.jpg" height="173" width="271" size="large"></rendition>
+		<rendition path="content/bin/images/thumb/SurfaceDrills19.jpg" height="82" width="129" size="thumb"></rendition>
+	</img>
+	<img orientation="BC" imageID="19_1415806744624" filename="SurfaceDrills20" >
+		<text>
+			<title></title>
+			<description></description>
+		</text>
+		<rendition path="content/bin/images/large/SurfaceDrills20.jpg" height="172" width="273" size="large"></rendition>
+		<rendition path="content/bin/images/thumb/SurfaceDrills20.jpg" height="81" width="129" size="thumb"></rendition>
+	</img>
+	<img orientation="BC" imageID="20_1415806744624" filename="SurfaceDrills21" >
+		<text>
+			<title></title>
+			<description></description>
+		</text>
+		<rendition path="content/bin/images/large/SurfaceDrills21.jpg" height="183" width="274" size="large"></rendition>
+		<rendition path="content/bin/images/thumb/SurfaceDrills21.jpg" height="86" width="129" size="thumb"></rendition>
+	</img>
+	<img orientation="BC" imageID="21_1415806744625" filename="SurfaceDrills22" >
+		<text>
+			<title></title>
+			<description></description>
+		</text>
+		<rendition path="content/bin/images/large/SurfaceDrills22.jpg" height="209" width="279" size="large"></rendition>
+		<rendition path="content/bin/images/thumb/SurfaceDrills22.jpg" height="96" width="129" size="thumb"></rendition>
+	</img>
+	<img orientation="BC" imageID="22_1415806744625" filename="SurfaceDrills23" >
+		<text>
+			<title></title>
+			<description></description>
+		</text>
+		<rendition path="content/bin/images/large/SurfaceDrills23.jpg" height="257" width="341" size="large"></rendition>
+		<rendition path="content/bin/images/thumb/SurfaceDrills23.jpg" height="97" width="129" size="thumb"></rendition>
+	</img>
+	<img orientation="BC" imageID="23_1415806744625" filename="SurfaceDrills24" >
+		<text>
+			<title></title>
+			<description></description>
+		</text>
+		<rendition path="content/bin/images/large/SurfaceDrills24.jpg" height="257" width="339" size="large"></rendition>
+		<rendition path="content/bin/images/thumb/SurfaceDrills24.jpg" height="97" width="129" size="thumb"></rendition>
+	</img>
+	<img orientation="BC" imageID="24_1415806744626" filename="SurfaceDrills25" >
+		<text>
+			<title></title>
+			<description></description>
+		</text>
+		<rendition path="content/bin/images/large/SurfaceDrills25.jpg" height="143" width="361" size="large"></rendition>
+		<rendition path="content/bin/images/thumb/SurfaceDrills25.jpg" height="51" width="129" size="thumb"></rendition>
+	</img>
+	<img orientation="BC" imageID="25_1415806744626" filename="SurfaceDrills26" >
+		<text>
+			<title></title>
+			<description></description>
+		</text>
+		<rendition path="content/bin/images/large/SurfaceDrills26.jpg" height="148" width="360" size="large"></rendition>
+		<rendition path="content/bin/images/thumb/SurfaceDrills26.jpg" height="53" width="129" size="thumb"></rendition>
+	</img>
+	<img orientation="BC" imageID="26_1415806744626" filename="SurfaceDrills27" >
+		<text>
+			<title></title>
+			<description></description>
+		</text>
+		<rendition path="content/bin/images/large/SurfaceDrills27.jpg" height="175" width="291" size="large"></rendition>
+		<rendition path="content/bin/images/thumb/SurfaceDrills27.jpg" height="77" width="129" size="thumb"></rendition>
+	</img>
+	<img orientation="BC" imageID="27_1415806744627" filename="SurfaceDrills28" >
+		<text>
+			<title></title>
+			<description></description>
+		</text>
+		<rendition path="content/bin/images/large/SurfaceDrills28.jpg" height="252" width="340" size="large"></rendition>
+		<rendition path="content/bin/images/thumb/SurfaceDrills28.jpg" height="95" width="129" size="thumb"></rendition>
+	</img>
+	<img orientation="BC" imageID="28_1415806744627" filename="SurfaceDrills29" >
+		<text>
+			<title></title>
+			<description></description>
+		</text>
+		<rendition path="content/bin/images/large/SurfaceDrills29.jpg" height="221" width="295" size="large"></rendition>
+		<rendition path="content/bin/images/thumb/SurfaceDrills29.jpg" height="96" width="129" size="thumb"></rendition>
+	</img>
+	<img orientation="BC" imageID="29_1415806744628" filename="SurfaceDrills30" >
+		<text>
+			<title></title>
+			<description></description>
+		</text>
+		<rendition path="content/bin/images/large/SurfaceDrills30.jpg" height="220" width="294" size="large"></rendition>
+		<rendition path="content/bin/images/thumb/SurfaceDrills30.jpg" height="96" width="129" size="thumb"></rendition>
+	</img>
+	<img orientation="BC" imageID="30_1415806744628" filename="SurfaceDrills31" >
+		<text>
+			<title></title>
+			<description></description>
+		</text>
+		<rendition path="content/bin/images/large/SurfaceDrills31.jpg" height="221" width="295" size="large"></rendition>
+		<rendition path="content/bin/images/thumb/SurfaceDrills31.jpg" height="96" width="129" size="thumb"></rendition>
+	</img>
+	<img orientation="BC" imageID="31_1415806744628" filename="SurfaceDrills32" >
+		<text>
+			<title></title>
+			<description></description>
+		</text>
+		<rendition path="content/bin/images/large/SurfaceDrills32.jpg" height="276" width="505" size="large"></rendition>
+		<rendition path="content/bin/images/thumb/SurfaceDrills32.jpg" height="70" width="129" size="thumb"></rendition>
+	</img>
+	<img orientation="BC" imageID="32_1415806744629" filename="SurfaceDrills33" >
+		<text>
+			<title></title>
+			<description></description>
+		</text>
+		<rendition path="content/bin/images/large/SurfaceDrills33.jpg" height="283" width="391" size="large"></rendition>
+		<rendition path="content/bin/images/thumb/SurfaceDrills33.jpg" height="93" width="129" size="thumb"></rendition>
+	</img>
+	<img orientation="BC" imageID="33_1415806744629" filename="SurfaceDrills34" >
+		<text>
+			<title></title>
+			<description></description>
+		</text>
+		<rendition path="content/bin/images/large/SurfaceDrills34.jpg" height="283" width="219" size="large"></rendition>
+		<rendition path="content/bin/images/thumb/SurfaceDrills34.jpg" height="129" width="99" size="thumb"></rendition>
+	</img>
+	<img orientation="BC" imageID="34_1415806744629" filename="SurfaceDrills34A" >
+		<text>
+			<title></title>
+			<description></description>
+		</text>
+		<rendition path="content/bin/images/large/SurfaceDrills34A.jpg" height="282" width="219" size="large"></rendition>
+		<rendition path="content/bin/images/thumb/SurfaceDrills34A.jpg" height="129" width="100" size="thumb"></rendition>
+	</img>
+	<img orientation="BC" imageID="35_1415806744630" filename="SurfaceDrills35" >
+		<text>
+			<title></title>
+			<description></description>
+		</text>
+		<rendition path="content/bin/images/large/SurfaceDrills35.jpg" height="261" width="348" size="large"></rendition>
+		<rendition path="content/bin/images/thumb/SurfaceDrills35.jpg" height="96" width="129" size="thumb"></rendition>
+	</img>
+	</samples>
+	<siteParams>
+		<firstImage index="1"></firstImage>
+		<lastImage index="36"></lastImage>
+		<mode value="all"></mode>
+	</siteParams>
+</photoCollection>

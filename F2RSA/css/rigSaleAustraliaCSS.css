@@ -1,0 +1,139 @@
+.bg {
+	border: 2px solid #ffffff;
+	padding: 1px 4px;
+	border-radius: 50px;
+	width: 1224;
+	height:1584;
+}.bg2 {
+	border: 2px solid #ffffff;
+	padding: 1px 4px;
+	border-radius: 50px;
+	width: 1224;
+	height:2000;
+}
+#myTitle {
+	font-weight: bold;
+	font-style: normal;
+	font-size: 24px;
+	font-family: Arial, Helvetica, sans-serif;
+	color: #00F;
+	text-decoration: underline;
+}
+#myTitleB {
+	font-weight: bold;
+	font-style: normal;
+	font-size: 20px;
+	font-family: Arial, Helvetica, sans-serif;
+	color: #000;
+	
+}
+#page_subtitle {
+	font-weight: bold;
+	font-style: normal;
+	font-size: 24px;
+	font-family: Arial, Helvetica, sans-serif;
+	color: #00F;
+	
+}
+#myTitleWARNWHITE {
+	font-weight: normal;
+	font-style: normal;
+	font-size: 20px;
+	font-family: Arial, Helvetica, sans-serif;
+	color: #FFF;
+}
+#myDetails {
+	font-weight: normal;
+	font-style: normal;
+	font-size: 14px;
+	font-family: Arial, Helvetica, sans-serif;
+	color: #000;
+	
+}
+.myNAMETitle {
+	font-weight: bold;
+	font-style: normal;
+	font-size: 20px;
+	font-family: Arial, Helvetica, sans-serif;
+	color: #00F;
+}
+.myNAMEDetails{
+	font-weight: normal;
+	font-style: normal;
+	font-size: 14px;
+	font-family: Arial, Helvetica, sans-serif;
+	color: #00F;
+	top: 1px;
+	vertical-align: text-top;
+}
+.myTitleWARNWHITE {
+	font-weight: normal;
+	font-style: normal;
+	font-size: 20px;
+	font-family: Arial, Helvetica, sans-serif;
+	color: #CCC;
+}
+	
+.textLinks {
+	font-family: Arial, Helvetica, sans-serif;
+	font-size: 18px;
+	font-style: normal;
+	font-weight: bold;
+	
+}
+.textLinks2Lines {
+	font-family: Arial, Helvetica, sans-serif;
+	font-size: 14px;
+	font-style: normal;
+	font-weight: bold;
+	
+}
+.subTextLinks {
+	font-family: Arial, Helvetica, sans-serif;
+	font-size: 14px;
+	font-style: normal;
+	font-weight: bold;
+	
+}
+.inputText{
+	font-family:Arial, Helvetica, sans-serif;
+	font-size:12px;
+	font-weight:lighter;
+}
+.redAlertText{
+	font-family:Arial, Helvetica, sans-serif;
+	font-size:10px;
+	font-weight:lighter;
+	color:#F00;
+    
+}
+.premiumADNAMETitle {
+	font-weight: bold;
+	font-style: normal;
+	font-size: 22px;
+	font-family: Arial, Helvetica, sans-serif;
+	color: #000;
+}
+.premiumADBriefDesc {
+	font-weight: normal;
+	font-style: normal;
+	font-size: 12px;
+	font-family: Arial, Helvetica, sans-serif;
+	color: #000;
+}
+a:link {
+	text-decoration: none;
+	color: #999;
+}
+a:visited {
+	text-decoration: none;
+	color: #06F;
+}
+a:hover {
+	text-decoration: none;
+	color: #000;
+}
+a:active {
+	text-decoration: none;
+	color: #00F;
+}

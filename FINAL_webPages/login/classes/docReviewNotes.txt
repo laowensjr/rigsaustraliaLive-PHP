@@ -1,0 +1,17 @@
+docreview
+id
+title
+date
+location
+status
+username
+SELECT * FROM docreview where username = '$username'
+is $status = nreview
+Update docreview Set $status = reviewed;
+Admin
+SEE 
+view user profile
+approve user products
+add user docs
+set products to front page
+add products

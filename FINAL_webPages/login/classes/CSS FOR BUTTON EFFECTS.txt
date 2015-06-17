@@ -1,0 +1,12 @@
+<input type="submit" class="myButton" value="Label goes here" />
+----------------CSS For above Input------------------------------------
+input.myButton{
+     background-image: url('img/button_normal.png');
+     border-style:none;
+}
+input.myButton:hover{
+    background-image: url('img/button_pressed2.png');
+}
+input.myButton:active{
+    background-image: url('img/button_normal.png');
+}

@@ -1,0 +1,1 @@
+[14-Nov-2014 01:26:32 America/New_York] PHP Warning:  mysql_connect() [<a href='function.mysql-connect'>function.mysql-connect</a>]: Access denied for user 'laowensjr'@'localhost' (using password: YES) in /home2/owenspcc/public_html/consumerhairreviews.com/rsa_live/FINAL_webPages/inventory/inventory.php on line 54
